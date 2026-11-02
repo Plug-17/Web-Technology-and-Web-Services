@@ -16,7 +16,7 @@
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,html" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" alt="Backend Technologies">
 </p>
 
 <h2>   ฟีเจอร์หลักของระบบ</h2>
@@ -51,4 +51,12 @@ npm start
 </pre>
 
 </div>
+
+<br>
+
+## สมาชิกในกลุ่ม
+นาย ทนง บุญแต่ง รหัสนิสิต 6730200146<br>
+นาย ณัชพล เพชรประดับ รหัสนิสิต 6730200111<br>
+นาย ชินวัตร กลิ่นนาค รหัสนิสิต 6730200464<br>
+นาย ณัฐวรรธน์ วิชชนาถวงศ์ รหัสนิสิต 6730200529
 
