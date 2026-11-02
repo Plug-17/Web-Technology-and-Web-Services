@@ -8,23 +8,17 @@
 </p>
 
 <h2>🔗 Tech Stack</h2>
-
-
-
-<p>Libraries, Frameworks และ Services ทั้งหมดที่ใช้ในการพัฒนาตัวโปรเจค</p>
+<p>Libraries, Frameworks และ Services ทั้งหมดที่ใช้ในการพัฒนาโปรเจกต์</p>
 
 <h3>Frontend</h3>
-
 <p>
-  <img src=“https://skillicons.dev/icons?i=vue,css” alt=“Frontend Technologies”>
+  <img src="https://skillicons.dev/icons?i=vue,css" alt="Frontend Technologies">
 </p>
 
 <h3>Backend</h3>
-
 <p>
-  <img src=“https://skillicons.dev/icons?i=nodejs,postgresql,html” alt=“Backend Technologies”>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" alt="Backend Technologies">
 </p>
-
 
 
 
