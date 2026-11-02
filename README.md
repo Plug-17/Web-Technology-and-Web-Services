@@ -33,5 +33,22 @@
   <li>ระบบการจัดการ Admin เช่น ดูประวัติการสั่งสินค้าของผู้ใช้งาน แก้ไขข้อมูลสินค้า ลบข้อมูลสินค้า การแก้ไขสถานะผู้ใช้งาน </li>
 </ul>
 
+<h2> คำสั่งรันโปรเจค</h2>
 
+<div style="border: 1px solid #444; border-radius: 6px; padding: 25px 40px; background-color: #0d1117; color: white;">
+
+
+<h2>Frontend</h2>
+
+<pre style="background-color: #161b22; padding: 20px;">
+npm run dev
+</pre>
+
+<h2>Backend</h2>
+
+<pre style="background-color: #161b22; padding: 20px;">
+npm start
+</pre>
+
+</div>
 
