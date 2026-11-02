@@ -17,7 +17,7 @@
 
 <h3>Backend</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgresql" alt="Backend Technologies">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql,html" alt="Backend Technologies">
 </p>
 
 
