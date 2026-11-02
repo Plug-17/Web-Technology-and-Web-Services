@@ -6,7 +6,7 @@
  ร้านขายหุ่นโมเดลตัวการ์ตูน โดยตัวโปรเจคนี้เป็น Full Stack Application มีทั้งในส่วน Frontend และ Backend
   ทำงานร่วมกันในระบบ และมีการใช้งานฐานข้อมูลเป็น postgresql
 </p>
-<h2> #Tech Stack</h2>
+<h2> Tech Stack</h2>
 <p>Libraries, Frameworks และ Services ทั้งหมดที่ใช้ในการพัฒนาโปรเจกต์</p>
 
 <h3>Frontend</h3>
